@@ -1,0 +1,28 @@
+name: SwitchFlame
+favicon: null
+layout_spectrum: 0.8556019063107669
+typography_spectrum: 0.4347719275392592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.11463019368238747
+  lightness: 0.7907622049096972
+  saturation: 0.366286254953593
+  rhythmicContrast: 0.1012172931805253
+purpose: []
