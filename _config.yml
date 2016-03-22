@@ -1,7 +1,7 @@
 name: SwitchFlame
 favicon: null
-layout_spectrum: 0.8556019063107669
-typography_spectrum: 0.4347719275392592
+layout_spectrum: 0.26456
+typography_spectrum: 0.13688
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.11463019368238747
-  lightness: 0.7907622049096972
-  saturation: 0.366286254953593
-  rhythmicContrast: 0.1012172931805253
+  brandStrength: 0.9375
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
